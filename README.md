@@ -37,5 +37,5 @@ All contributions are welcome, from code to documentation to graphics to design 
 Please use GitHub to its fullest-- contribute Pull Requests, contribute tutorials or other wiki content-- whatever you have to offer, we can use it!
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Her)
+!app.png
 
