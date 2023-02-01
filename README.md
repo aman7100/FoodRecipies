@@ -9,7 +9,7 @@ Firebase is used as the database to get the signing features and the good feedba
 
 To get started with Food App, you'll need to get familiar with Git and Repo.
 
-To initialize your local repository using the OmniROM trees, use a command like this:
+To initialize your local repository using the Food, use a command like this:
 
 ```bash
  repo init https://github.com/aman7100/FoodRecipies.git
